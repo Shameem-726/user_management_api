@@ -35,6 +35,7 @@ db.sqlite3-journal
 # OS
 .DS_Store
 Thumbs.db
+~$*.docx
 
 # Testing
 .coverage
@@ -45,3 +46,5 @@ htmlcov/
 # Migrations (optional - some keep, some ignore)
 # */migrations/*.py
 # !*/migrations/__init__.py
+
+SHa_pers.txt
